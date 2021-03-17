@@ -1,1 +1,1 @@
-image: outeredge/edge-docker-php:7.1
+image: outeredge/edge-docker-php-dev:7.1
