@@ -1,6 +1,6 @@
 FROM outeredge/edge-docker-magento:2.2.10 AS magento
 FROM outeredge/edge-docker-magento:1.9.4.4-php7 AS magento1
-FROM outeredge/edge-docker-php:7.4
+FROM outeredge/edge-docker-php:7.2
 
 ENV APPLICATION_ENV=dev \
     MAGE_IS_DEVELOPER_MODE=true
