@@ -1,1 +1,1 @@
-FROM outeredge/edge-docker-php:7.1
+FROM ubuntu:18.04
